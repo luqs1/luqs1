@@ -19,7 +19,7 @@ I'm a Cloud Platform & MLOps Engineer at Cisco. I like to build things — espec
 ## 🛠️ Projects
 
 **Gravida – Maternity Health App**  
-LLM + OCR pipeline to digitise obstetric records in Bangladesh, with offline-first mobile apps for low-resource settings.  
+LLM + OCR pipeline to digitise obstetric records in Bangladesh, with offline-first mobile apps for low-resource settings. Prototyped an AI Doctor that could be called to triage urgent cases according to local guidelines. 
 → Built for Maa Charity
 
 **Agent-Based Model of Organizational Structures**  
