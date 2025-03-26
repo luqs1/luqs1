@@ -1,60 +1,53 @@
-# 👋🏽 Hi, I'm Luqmaan
+# 👋🏽 hi, i'm luqmaan
 
 > *"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended."*  
-> [Sahih al-Bukhari 1](https://sunnah.com/bukhari:1)
+> [sahih al-bukhari 1](https://sunnah.com/bukhari:1)
 
-I'm a Cloud Platform & MLOps Engineer at Cisco. I like to build things — especially systems that scale well, reduce friction for engineers, or contribute to meaningful causes.
+i'm a cloud platform & mlops engineer at cisco. i like to build things — especially systems that scale well, reduce friction for engineers, or contribute to meaningful causes.
 
----
+## 🧠 interests & focus
 
-## 🧠 Interests & Focus
+- ☁️ **cloud platforms & kubernetes** — pulumi, eks, helm, istio, terraform, multi-cloud infra  
+- ⚙️ **mlops** — mlflow, airflow, weights & biases, langchain, pipecat, pgvector  
+- 🧑🏽‍💻 **programming languages** — python, typescript, go, rust, haskell, java
 
-- ☁️ **Cloud Platforms & Kubernetes** — Pulumi, EKS, Helm, Istio, Terraform, multi-cloud infra  
-- ⚙️ **MLOps** — MLflow, Airflow, Weights & Biases, LangChain, Pipecat, pgvector
 
-- 🧑🏽‍💻 **Programming Languages** — Python, TypeScript, Go, Rust, Haskell, Java
+## 🛠️ projects
 
----
+**gravida – maternity health app**  
+llm + ocr pipeline to digitise obstetric records in bangladesh, with offline-first mobile apps for low-resource settings. prototyped an ai doctor that could be called to triage urgent cases according to local guidelines.  
+→ python, built for maa charity
 
-## 🛠️ Projects
+**agent-based model of organizational structures**  
+simulated stakeholder dynamics to analyse performance theories in modern companies.  
+→ python (mesa), academic dissertation
 
-**Gravida – Maternity Health App**  
-LLM + OCR pipeline to digitise obstetric records in Bangladesh, with offline-first mobile apps for low-resource settings. Prototyped an AI Doctor that could be called to triage urgent cases according to local guidelines. 
-→ Built for Maa Charity
+**openbook**  
+[opnbk.jsmmc.org](https://opnbk.jsmmc.org) — making charitable transactions transparent to donors.  
+→ next.js + supabase, tech focused masjid
 
-**Agent-Based Model of Organizational Structures**  
-Simulated stakeholder dynamics to analyse performance theories in modern companies.  
-→ Python (Mesa), academic dissertation
+**street kids direct**  
+developed a donor and partner app suite for a guatemalan children's charity.  
+→ vue.js + firebase, charity from school
 
-**Openbook**  
-[opnbk.jsmmc.org](https://opnbk.jsmmc.org) — Making charitable transactions transparent to donors.  
-→ Lightweight frontend + serverless backend
+## 💼 experience
 
-**Street Kids Direct**  
-Developed a donor and partner app suite for a Guatemalan children's charity.  
-→ Streamlined donation management and reporting
+**cisco**  
+- *ai/ml devops engineer* — supporting the webex ai platform with cloud-native tools and ml infra  
+- *cloud platform engineer* — led kubernetes platform standardisation, built tooling, and migrated global services
 
----
+**intuit** *(intern)*  
+- built automation to save thousands of user-hours annually  
+- developed a commercial model for a high-stakes partnership
 
-## 💼 Experience
+**reachcode** *(founder & cto)*  
+- delivered custom web apps and infra solutions for uk-based businesses
 
-**Cisco**  
-- *AI/ML DevOps Engineer* — Supporting the Webex AI platform with cloud-native tools and ML infra  
-- *Cloud Platform Engineer* — Led Kubernetes platform standardisation, built tooling, and migrated global services
+## 📫 contact
 
-**Intuit** *(Intern)*  
-- Built automation to save thousands of user-hours annually  
-- Developed a commercial model for a high-stakes partnership
+- **email**: [luqmaan.uk@gmail.com](mailto:luqmaan.uk@gmail.com)  
+- **linkedin**: [linkedin.com/in/luqmaanahmed](https://linkedin.com/in/luqmaanahmed)
 
-**Reachcode** *(Founder & CTO)*  
-- Delivered custom web apps and infra solutions for UK-based businesses
-
----
-
-## 📫 Contact
-
-- **Email**: [luqmaan.uk@gmail.com](mailto:luqmaan.uk@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/luqmaanahmed](https://linkedin.com/in/luqmaanahmed)
 
 
 <!--
