@@ -44,7 +44,7 @@ developed a donor and partner app suite for a guatemalan children's charity.
 - delivered custom web apps and infra solutions for uk-based businesses
 
 ## 📫 contact
-
+- **bluesky**: [@luqs1.bsky.social](https://bsky.app/profile/luqs1.bsky.social)
 - **email**: [luqmaan.uk@gmail.com](mailto:luqmaan.uk@gmail.com)  
 - **linkedin**: [linkedin.com/in/luqmaanahmed](https://linkedin.com/in/luqmaanahmed)
 
