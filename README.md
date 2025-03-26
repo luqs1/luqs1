@@ -23,7 +23,7 @@ simulated stakeholder dynamics to analyse performance theories in modern compani
 → python (mesa), academic dissertation
 
 **openbook**  
-[opnbk.jsmmc.org](https://opnbk.jsmmc.org) — making charitable transactions transparent to donors.  
+[opnbk](https://opnbk.jsmcc.org/sign-in) — making charitable transactions transparent to donors.  
 → next.js + supabase, tech focused masjid
 
 **street kids direct**  
