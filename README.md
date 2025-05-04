@@ -22,6 +22,10 @@ llm + ocr pipeline to digitise obstetric records in bangladesh, with offline-fir
 simulated stakeholder dynamics to analyse performance theories in modern companies.  
 → python (mesa), academic dissertation
 
+**fustic**
+[Fustic](https://github.com/luqs1) - clothes, rooted in our past, stitched for our future.
+→ replit agent, react
+
 **openbook**  
 [opnbk](https://opnbk.jsmcc.org/sign-in) — making charitable transactions transparent to donors.  
 → next.js + supabase, tech focused masjid
