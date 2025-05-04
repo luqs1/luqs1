@@ -14,7 +14,7 @@ i'm a cloud platform & mlops engineer at cisco. i like to build things — espec
 
 ## 🛠️ projects
 
-**gravida – maternity health app**  
+**gravida — maternity health app**  
 llm + ocr pipeline to digitise obstetric records in bangladesh, with offline-first mobile apps for low-resource settings. prototyped an ai doctor that could be called to triage urgent cases according to local guidelines.  
 → python, built for maa charity
 
@@ -22,8 +22,8 @@ llm + ocr pipeline to digitise obstetric records in bangladesh, with offline-fir
 simulated stakeholder dynamics to analyse performance theories in modern companies.  
 → python (mesa), academic dissertation
 
-**fustic**
-[Fustic](https://github.com/luqs1) - clothes, rooted in our past, stitched for our future.
+**fustic**  
+https://fustic.co — clothes, rooted in our past, stitched for our future.  
 → replit agent, react
 
 **openbook**  
