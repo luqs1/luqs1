@@ -37,7 +37,7 @@ developed a donor and partner app suite for a guatemalan children's charity.
 ## 💼 experience
 
 **cisco**  
-- *ai/ml devops engineer* — supporting the webex ai platform with cloud-native tools and ml infra  
+- *ai/ml devops engineer* — supporting the webex ai platform with cloud-native tools, ml infra and agentic workflow adoption
 - *cloud platform engineer* — led kubernetes platform standardisation, built tooling, and migrated global services
 
 **intuit** *(intern)*  
